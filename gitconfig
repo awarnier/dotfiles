@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = a.jurien@hotmail.fr
+	name = Warnier Amelie
